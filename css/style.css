@@ -1,5 +1,8 @@
 /******* Resizing Menu bar *******/
-
+body{
+  margin:0;
+  padding:0;
+}
 header {
   background: #FFFFFF;
   position: fixed;
