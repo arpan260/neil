@@ -1,7 +1,5 @@
 /******* Resizing Menu bar *******/
-body{
- margin: 0;
-}
+
 header {
   background: #FFFFFF;
   position: fixed;
@@ -10,6 +8,8 @@ header {
 }
 header.large {
   height: 100px;
+  margin-top: -8px;
+  padding-bottom: 7px;
 }
 header.large .Main-logo {
   width: 383px;
